@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/My practice/C++_codes/build",
+  "command": "E:\\msys64\\ucrt64\\bin\\g++.exe -DASIO_STANDALONE @CMakeFiles/server.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\server.dir\\main.cpp.obj -c \"E:\\My practice\\C++_codes\\main.cpp\"",
+  "file": "E:/My practice/C++_codes/main.cpp",
+  "output": "CMakeFiles/server.dir/main.cpp.obj"
+}
+]

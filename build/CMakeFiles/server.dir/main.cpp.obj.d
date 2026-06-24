@@ -1,0 +1,931 @@
+CMakeFiles/server.dir/main.cpp.obj: E:\My\ practice\C++_codes\main.cpp \
+ E:/msys64/ucrt64/include/c++/14.2.0/iostream \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/requires_hosted.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/x86_64-w64-mingw32/bits/c++config.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/x86_64-w64-mingw32/bits/os_defines.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/pstl/pstl_config.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/ostream \
+ E:/msys64/ucrt64/include/c++/14.2.0/ios \
+ E:/msys64/ucrt64/include/c++/14.2.0/iosfwd \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/stringfwd.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/memoryfwd.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/postypes.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/cwchar \
+ E:/msys64/ucrt64/include/wchar.h E:/msys64/ucrt64/include/corecrt.h \
+ E:/msys64/ucrt64/include/_mingw.h E:/msys64/ucrt64/include/_mingw_mac.h \
+ E:/msys64/ucrt64/include/_mingw_secapi.h \
+ E:/msys64/ucrt64/include/vadefs.h \
+ E:/msys64/ucrt64/include/sdks/_mingw_ddk.h \
+ E:/msys64/ucrt64/include/corecrt_stdio_config.h \
+ E:/msys64/ucrt64/include/corecrt_wstdlib.h \
+ E:/msys64/ucrt64/include/_mingw_off_t.h \
+ E:/msys64/ucrt64/include/_mingw_stat64.h \
+ E:/msys64/ucrt64/include/swprintf.inl \
+ E:/msys64/ucrt64/include/sec_api/wchar_s.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/exception \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/exception.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/version.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/exception_ptr.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/exception_defines.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/cxxabi_init_exception.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stddef.h \
+ E:/msys64/ucrt64/include/stddef.h E:/msys64/ucrt64/include/crtdefs.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/typeinfo \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/hash_bytes.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/new \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/move.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/type_traits \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/nested_exception.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/char_traits.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/localefwd.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/x86_64-w64-mingw32/bits/c++locale.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/clocale \
+ E:/msys64/ucrt64/include/locale.h E:/msys64/ucrt64/include/stdio.h \
+ E:/msys64/ucrt64/include/sec_api/stdio_s.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/cctype \
+ E:/msys64/ucrt64/include/ctype.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/ios_base.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/ext/atomicity.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/x86_64-w64-mingw32/bits/gthr.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/x86_64-w64-mingw32/bits/gthr-default.h \
+ E:/msys64/ucrt64/include/pthread.h E:/msys64/ucrt64/include/errno.h \
+ E:/msys64/ucrt64/include/sys/types.h E:/msys64/ucrt64/include/process.h \
+ E:/msys64/ucrt64/include/corecrt_startup.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/limits.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/syslimits.h \
+ E:/msys64/ucrt64/include/limits.h E:/msys64/ucrt64/include/signal.h \
+ E:/msys64/ucrt64/include/pthread_signal.h \
+ E:/msys64/ucrt64/include/time.h E:/msys64/ucrt64/include/sys/timeb.h \
+ E:/msys64/ucrt64/include/sec_api/sys/timeb_s.h \
+ E:/msys64/ucrt64/include/_timeval.h \
+ E:/msys64/ucrt64/include/pthread_time.h \
+ E:/msys64/ucrt64/include/pthread_compat.h \
+ E:/msys64/ucrt64/include/pthread_unistd.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/x86_64-w64-mingw32/bits/atomic_word.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/locale_classes.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/string \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/allocator.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/x86_64-w64-mingw32/bits/c++allocator.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/new_allocator.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/functexcept.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/cpp_type_traits.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/ostream_insert.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/cxxabi_forced.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/stl_iterator_base_funcs.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/concept_check.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/debug/assertions.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/stl_iterator_base_types.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/stl_iterator.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/ext/type_traits.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/ptr_traits.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/stl_function.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/backward/binders.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/ext/numeric_traits.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/stl_algobase.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/stl_pair.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/utility.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/debug/debug.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/predefined_ops.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bit \
+ E:/msys64/ucrt64/include/c++/14.2.0/concepts \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/refwrap.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/invoke.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/range_access.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/initializer_list \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/basic_string.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/ext/alloc_traits.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/alloc_traits.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/stl_construct.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/string_view \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/functional_hash.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/string_view.tcc \
+ E:/msys64/ucrt64/include/c++/14.2.0/ext/string_conversions.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/cstdlib \
+ E:/msys64/ucrt64/include/stdlib.h \
+ E:/msys64/ucrt64/include/sec_api/stdlib_s.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/stdlib.h \
+ E:/msys64/ucrt64/include/malloc.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/mm_malloc.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/std_abs.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/cstdio \
+ E:/msys64/ucrt64/include/c++/14.2.0/cerrno \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/charconv.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/basic_string.tcc \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/memory_resource.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/cstddef \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/uses_allocator.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/uses_allocator_args.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/tuple \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/locale_classes.tcc \
+ E:/msys64/ucrt64/include/c++/14.2.0/system_error \
+ E:/msys64/ucrt64/include/c++/14.2.0/x86_64-w64-mingw32/bits/error_constants.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/stdexcept \
+ E:/msys64/ucrt64/include/c++/14.2.0/streambuf \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/streambuf.tcc \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/basic_ios.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/locale_facets.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/cwctype \
+ E:/msys64/ucrt64/include/wctype.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/x86_64-w64-mingw32/bits/ctype_base.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/streambuf_iterator.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/x86_64-w64-mingw32/bits/ctype_inline.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/locale_facets.tcc \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/basic_ios.tcc \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/ostream.tcc \
+ E:/msys64/ucrt64/include/c++/14.2.0/istream \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/istream.tcc \
+ E:/msys64/ucrt64/include/c++/14.2.0/memory \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/stl_tempbuf.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/stl_uninitialized.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/stl_raw_storage_iter.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/align.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
+ E:/msys64/ucrt64/include/stdint.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/unique_ptr.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/shared_ptr.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/shared_ptr_base.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/allocated_ptr.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/ext/aligned_buffer.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/ext/concurrence.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/shared_ptr_atomic.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/atomic_base.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/atomic_lockfree_defines.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/backward/auto_ptr.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/pstl/glue_memory_defs.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/pstl/execution_defs.h \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/any_completion_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/config.hpp \
+ E:/msys64/ucrt64/include/c++/14.2.0/version \
+ E:/msys64/ucrt64/include/winapifamily.h \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/allocator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/type_traits.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/invocable_archetype.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/push_options.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/pop_options.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/traits/equality_comparable.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/traits/execute_member.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/is_applicable_property.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/traits/query_static_constexpr_member.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/traits/static_query.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/any_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/assert.hpp \
+ E:/msys64/ucrt64/include/c++/14.2.0/cassert \
+ E:/msys64/ucrt64/include/assert.h \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/atomic_count.hpp \
+ E:/msys64/ucrt64/include/c++/14.2.0/atomic \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/cstddef.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/executor_function.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/handler_alloc_helpers.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/memory.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/cstdint.hpp \
+ E:/msys64/ucrt64/include/c++/14.2.0/cstdint \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/throw_exception.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/noncopyable.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/recycling_allocator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/thread_context.hpp \
+ E:/msys64/ucrt64/include/c++/14.2.0/climits \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/call_stack.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/tss_ptr.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_tss_ptr.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/socket_types.hpp \
+ E:/msys64/ucrt64/include/winsock2.h \
+ E:/msys64/ucrt64/include/_mingw_unicode.h \
+ E:/msys64/ucrt64/include/windows.h E:/msys64/ucrt64/include/sdkddkver.h \
+ E:/msys64/ucrt64/include/excpt.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h \
+ E:/msys64/ucrt64/include/stdarg.h \
+ E:/msys64/ucrt64/include/_mingw_stdarg.h \
+ E:/msys64/ucrt64/include/windef.h E:/msys64/ucrt64/include/minwindef.h \
+ E:/msys64/ucrt64/include/specstrings.h E:/msys64/ucrt64/include/sal.h \
+ E:/msys64/ucrt64/include/concurrencysal.h \
+ E:/msys64/ucrt64/include/driverspecs.h E:/msys64/ucrt64/include/winnt.h \
+ E:/msys64/ucrt64/include/apiset.h \
+ E:/msys64/ucrt64/include/psdk_inc/intrin-impl.h \
+ E:/msys64/ucrt64/include/basetsd.h E:/msys64/ucrt64/include/guiddef.h \
+ E:/msys64/ucrt64/include/string.h \
+ E:/msys64/ucrt64/include/sec_api/string_s.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/x86intrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/x86gprintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/ia32intrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/adxintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/bmiintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/bmi2intrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/cetintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/cldemoteintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/clflushoptintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/clwbintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/clzerointrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/cmpccxaddintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/enqcmdintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/fxsrintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/lzcntintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/lwpintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/movdirintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/mwaitintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/mwaitxintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/pconfigintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/popcntintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/pkuintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/prfchiintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/raointintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/rdseedintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/rtmintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/serializeintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/sgxintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/tbmintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/tsxldtrkintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/uintrintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/waitpkgintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/wbnoinvdintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/xsaveintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/xsavecintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/xsaveoptintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/xsavesintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/xtestintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/hresetintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/usermsrintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/immintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/mmintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/xmmintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/emmintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/pmmintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/tmmintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/smmintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/wmmintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avxintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avxvnniintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avxifmaintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avxvnniint8intrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avxvnniint16intrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx2intrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512fintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512erintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512pfintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512cdintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512vlintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512bwintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512dqintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512vlbwintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512vldqintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512ifmaintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512ifmavlintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512vbmiintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512vbmivlintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx5124fmapsintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx5124vnniwintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512vpopcntdqintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512vbmi2intrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512vbmi2vlintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512vnniintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512vnnivlintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512vpopcntdqvlintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512bitalgintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512bitalgvlintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512vp2intersectintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512vp2intersectvlintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512fp16intrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512fp16vlintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/shaintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/sm3intrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/sha512intrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/sm4intrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/fmaintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/f16cintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/gfniintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/vaesintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/vpclmulqdqintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512bf16vlintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avx512bf16intrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/avxneconvertintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/amxtileintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/amxint8intrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/amxbf16intrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/amxcomplexintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/prfchwintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/keylockerintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/amxfp16intrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/mm3dnow.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/fma4intrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/ammintrin.h \
+ E:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/xopintrin.h \
+ E:/msys64/ucrt64/include/pshpack4.h E:/msys64/ucrt64/include/poppack.h \
+ E:/msys64/ucrt64/include/pshpack4.h E:/msys64/ucrt64/include/pshpack2.h \
+ E:/msys64/ucrt64/include/poppack.h E:/msys64/ucrt64/include/pshpack2.h \
+ E:/msys64/ucrt64/include/pshpack8.h E:/msys64/ucrt64/include/pshpack8.h \
+ E:/msys64/ucrt64/include/ktmtypes.h E:/msys64/ucrt64/include/winbase.h \
+ E:/msys64/ucrt64/include/apisetcconv.h \
+ E:/msys64/ucrt64/include/minwinbase.h \
+ E:/msys64/ucrt64/include/bemapiset.h E:/msys64/ucrt64/include/debugapi.h \
+ E:/msys64/ucrt64/include/errhandlingapi.h \
+ E:/msys64/ucrt64/include/fibersapi.h E:/msys64/ucrt64/include/fileapi.h \
+ E:/msys64/ucrt64/include/handleapi.h E:/msys64/ucrt64/include/heapapi.h \
+ E:/msys64/ucrt64/include/ioapiset.h \
+ E:/msys64/ucrt64/include/interlockedapi.h \
+ E:/msys64/ucrt64/include/jobapi.h \
+ E:/msys64/ucrt64/include/libloaderapi.h \
+ E:/msys64/ucrt64/include/memoryapi.h \
+ E:/msys64/ucrt64/include/namedpipeapi.h \
+ E:/msys64/ucrt64/include/namespaceapi.h \
+ E:/msys64/ucrt64/include/processenv.h \
+ E:/msys64/ucrt64/include/processthreadsapi.h \
+ E:/msys64/ucrt64/include/processtopologyapi.h \
+ E:/msys64/ucrt64/include/profileapi.h \
+ E:/msys64/ucrt64/include/realtimeapiset.h \
+ E:/msys64/ucrt64/include/securityappcontainer.h \
+ E:/msys64/ucrt64/include/securitybaseapi.h \
+ E:/msys64/ucrt64/include/synchapi.h \
+ E:/msys64/ucrt64/include/sysinfoapi.h \
+ E:/msys64/ucrt64/include/systemtopologyapi.h \
+ E:/msys64/ucrt64/include/threadpoolapiset.h \
+ E:/msys64/ucrt64/include/threadpoollegacyapiset.h \
+ E:/msys64/ucrt64/include/utilapiset.h \
+ E:/msys64/ucrt64/include/wow64apiset.h \
+ E:/msys64/ucrt64/include/winerror.h \
+ E:/msys64/ucrt64/include/fltwinerror.h \
+ E:/msys64/ucrt64/include/timezoneapi.h E:/msys64/ucrt64/include/wingdi.h \
+ E:/msys64/ucrt64/include/pshpack1.h E:/msys64/ucrt64/include/winuser.h \
+ E:/msys64/ucrt64/include/tvout.h E:/msys64/ucrt64/include/winnls.h \
+ E:/msys64/ucrt64/include/datetimeapi.h \
+ E:/msys64/ucrt64/include/stringapiset.h \
+ E:/msys64/ucrt64/include/wincon.h E:/msys64/ucrt64/include/wincontypes.h \
+ E:/msys64/ucrt64/include/consoleapi.h \
+ E:/msys64/ucrt64/include/consoleapi2.h \
+ E:/msys64/ucrt64/include/consoleapi3.h E:/msys64/ucrt64/include/winver.h \
+ E:/msys64/ucrt64/include/winreg.h E:/msys64/ucrt64/include/reason.h \
+ E:/msys64/ucrt64/include/winnetwk.h E:/msys64/ucrt64/include/wnnc.h \
+ E:/msys64/ucrt64/include/virtdisk.h E:/msys64/ucrt64/include/stralign.h \
+ E:/msys64/ucrt64/include/sec_api/stralign_s.h \
+ E:/msys64/ucrt64/include/winsvc.h E:/msys64/ucrt64/include/mcx.h \
+ E:/msys64/ucrt64/include/imm.h \
+ E:/msys64/ucrt64/include/psdk_inc/_ws1_undef.h \
+ E:/msys64/ucrt64/include/_bsd_types.h E:/msys64/ucrt64/include/inaddr.h \
+ E:/msys64/ucrt64/include/psdk_inc/_socket_types.h \
+ E:/msys64/ucrt64/include/psdk_inc/_fd_types.h \
+ E:/msys64/ucrt64/include/psdk_inc/_ip_types.h \
+ E:/msys64/ucrt64/include/psdk_inc/_wsadata.h \
+ E:/msys64/ucrt64/include/ws2def.h \
+ E:/msys64/ucrt64/include/psdk_inc/_wsa_errnos.h \
+ E:/msys64/ucrt64/include/qos.h E:/msys64/ucrt64/include/ws2tcpip.h \
+ E:/msys64/ucrt64/include/ws2ipdef.h E:/msys64/ucrt64/include/in6addr.h \
+ E:/msys64/ucrt64/include/psdk_inc/_ip_mreq1.h \
+ E:/msys64/ucrt64/include/mstcpip.h E:/msys64/ucrt64/include/mswsock.h \
+ E:/msys64/ucrt64/include/psdk_inc/_xmitfile.h \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/old_win_sdk_compat.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/win_tss_ptr.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/throw_error.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/error_code.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/error_code.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/local_free_on_block_exit.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/throw_error.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/system_error.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/error.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/error.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/thread_context.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/thread_info_base.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/multiple_exceptions.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/multiple_exceptions.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/associated_allocator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/associator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/functional.hpp \
+ E:/msys64/ucrt64/include/c++/14.2.0/functional \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/std_function.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/unordered_map \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/unordered_map.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/hashtable.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/hashtable_policy.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/enable_special_members.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/node_handle.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/erase_if.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/vector \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/stl_vector.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/stl_bvector.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/vector.tcc \
+ E:/msys64/ucrt64/include/c++/14.2.0/array \
+ E:/msys64/ucrt64/include/c++/14.2.0/compare \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/non_const_lvalue.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/scoped_ptr.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/bad_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/impl/bad_executor.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/blocking.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/prefer.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/traits/prefer_free.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/traits/prefer_member.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/traits/require_free.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/traits/require_member.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/traits/static_require.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/query.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/traits/query_member.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/traits/query_free.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/require.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/blocking_adaptation.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/event.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_event.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/win_event.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/mutex.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_mutex.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/scoped_lock.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/win_mutex.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/context.hpp \
+ E:/msys64/ucrt64/include/c++/14.2.0/any \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/context_as.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/mapping.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/occupancy.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/outstanding_work.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/prefer_only.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/relationship.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/any_completion_executor.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/any_completion_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/any_completion_handler.hpp \
+ E:/msys64/ucrt64/include/c++/14.2.0/cstring \
+ E:/msys64/ucrt64/include/c++/14.2.0/utility \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/stl_relops.h \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/any_io_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution_context.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/execution_context.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/handler_type_requirements.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/async_result.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/service_registry.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/service_registry.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/service_registry.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/execution_context.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/any_io_executor.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/associated_cancellation_slot.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/cancellation_signal.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/cancellation_type.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/cancellation_signal.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/associated_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/is_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/is_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/system_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/system_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/executor_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/fenced_block.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/std_fenced_block.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/scheduler_operation.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/handler_tracking.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/handler_tracking.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/op_queue.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/global.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_global.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/static_mutex.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_static_mutex.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/win_static_mutex.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/system_context.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/scheduler.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/conditionally_enabled_event.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/conditionally_enabled_mutex.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/null_event.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/null_event.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/scheduler_task.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/thread.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/posix_thread.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/posix_thread.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/scheduler.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/concurrency_hint.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/limits.hpp \
+ E:/msys64/ucrt64/include/c++/14.2.0/limits \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/scheduler_thread_info.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/signal_blocker.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/null_signal_blocker.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/reactor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/null_reactor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/thread_group.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/system_context.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/system_context.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/associated_immediate_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/cancellation_state.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/recycling_allocator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/any_io_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/append.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/append.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/handler_cont_helpers.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/handler_continuation_hook.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/utility.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/as_tuple.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/as_tuple.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/associated_allocator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/associated_cancellation_slot.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/associated_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/associated_immediate_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/associator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/async_result.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/awaitable.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_datagram_socket.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_socket.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/io_object_impl.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/io_context.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/chrono.hpp \
+ E:/msys64/ucrt64/include/c++/14.2.0/chrono \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/chrono.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/ratio \
+ E:/msys64/ucrt64/include/c++/14.2.0/ctime \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/parse_numbers.h \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/wrapped_handler.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/bind_handler.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/winsock_init.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/winsock_init.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_io_context.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/timer_queue_base.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/operation.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_operation.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/timer_queue_set.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/timer_queue_set.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/wait_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_thread_info.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/win_iocp_io_context.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/completion_handler.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/handler_work.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/initiate_dispatch.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/work_dispatcher.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/executor_work_guard.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/win_iocp_io_context.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/io_context.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/io_context.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/post.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/initiate_post.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/socket_base.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/io_control.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/socket_option.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_socket_service.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/buffer_sequence_adapter.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/buffer.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/array_fwd.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/string_view.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/is_contiguous_iterator.hpp \
+ E:/msys64/ucrt64/include/c++/14.2.0/iterator \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/stream_iterator.h \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/is_buffer_sequence.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/registered_buffer.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/buffer_sequence_adapter.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/reactor_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/select_reactor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/fd_set_adapter.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/posix_fd_set_adapter.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_fd_set_adapter.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/reactor_op_queue.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/hash_map.hpp \
+ E:/msys64/ucrt64/include/c++/14.2.0/list \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/stl_list.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/list.tcc \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/select_interrupter.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/socket_select_interrupter.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/socket_select_interrupter.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/socket_holder.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/socket_ops.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/socket_ops.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/select_reactor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/select_reactor.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_null_buffers_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_socket_accept_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_socket_service_base.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_socket_connect_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_socket_send_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_socket_recv_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_socket_recvmsg_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_wait_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/win_iocp_socket_service_base.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_socket_recvfrom_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_deadline_timer.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_file.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/file_base.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_file_service.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_handle_service.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_handle_read_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_handle_write_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/win_iocp_handle_service.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/win_iocp_file_service.ipp \
+ E:/msys64/ucrt64/include/sys/stat.h E:/msys64/ucrt64/include/io.h \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_io_object.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_random_access_file.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_file.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_raw_socket.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_readable_pipe.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_seq_packet_socket.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_serial_port.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/serial_port_base.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/serial_port_base.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/serial_port_base.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_serial_port_service.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/win_iocp_serial_port_service.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_signal_set.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/signal_set_service.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/signal_set_base.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/signal_handler.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/signal_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/signal_set_service.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_socket.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_socket_acceptor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_socket_iostream.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_socket_streambuf.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_stream_socket.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/steady_timer.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_waitable_timer.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/chrono_time_traits.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/deadline_timer_service.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/timer_queue.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/date_time_fwd.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/timer_queue_ptime.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/timer_scheduler.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/timer_scheduler_fwd.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/wait_handler.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/wait_traits.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_socket_streambuf.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_stream_file.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_stream_socket.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_streambuf.hpp \
+ E:/msys64/ucrt64/include/c++/14.2.0/algorithm \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/stl_algo.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/algorithmfwd.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/stl_heap.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/uniform_int_dist.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/pstl/glue_algorithm_defs.h \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_streambuf_fwd.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_waitable_timer.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_writable_pipe.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/bind_allocator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/bind_cancellation_slot.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/bind_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/uses_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/bind_immediate_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/buffer.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/buffer_registration.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/buffered_read_stream_fwd.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/buffered_read_stream.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/buffered_read_stream_fwd.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/buffer_resize_guard.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/buffered_stream_storage.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/buffered_read_stream.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/buffered_stream_fwd.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/buffered_stream.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/buffered_read_stream.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/buffered_write_stream.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/buffered_write_stream_fwd.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/completion_condition.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/write.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/write.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/base_from_cancellation_state.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/base_from_completion_cond.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/consuming_buffers.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/dependent_type.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/buffered_write_stream.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/buffered_stream_fwd.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/buffered_write_stream_fwd.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/buffered_write_stream.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/buffers_iterator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/cancellation_signal.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/cancellation_state.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/cancellation_type.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/co_spawn.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/completion_condition.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/compose.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/composed_work.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/connect.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/connect.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/connect_pipe.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_readable_pipe.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_writable_pipe.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/connect_pipe.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/connect_pipe.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/connect_pipe.ipp \
+ E:/msys64/ucrt64/include/bcrypt.h \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/consign.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/consign.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/coroutine.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/deadline_timer.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/defer.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/initiate_defer.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/deferred.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/deferred.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detached.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/detached.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/dispatch.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/error.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/error_code.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/allocator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/any_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/blocking.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/blocking_adaptation.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/context.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/context_as.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/invocable_archetype.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/mapping.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/occupancy.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/outstanding_work.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/prefer_only.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/execution/relationship.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/executor.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/executor_work_guard.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/file_base.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/generic/basic_endpoint.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/generic/detail/endpoint.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/generic/detail/impl/endpoint.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/generic/datagram_protocol.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_datagram_socket.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/generic/basic_endpoint.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/generic/raw_protocol.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_raw_socket.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/generic/seq_packet_protocol.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_seq_packet_socket.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/generic/stream_protocol.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_socket_iostream.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/handler_continuation_hook.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/high_resolution_timer.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/io_context.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/io_context_strand.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/strand_service.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/strand_service.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/strand_service.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/io_service.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/io_service_strand.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/io_context_strand.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/address.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/address_v4.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/array.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/impl/address_v4.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/impl/address_v4.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/address_v6.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/impl/address_v6.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/impl/address_v6.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/bad_address_cast.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/impl/address.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/impl/address.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/address.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/address_v4.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/address_v4_iterator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/address_v4_range.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/address_v4_iterator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/address_v6.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/address_v6_iterator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/address_v6_range.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/address_v6_iterator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/network_v4.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/address_v4_range.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/impl/network_v4.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/impl/network_v4.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/network_v4.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/network_v6.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/address_v6_range.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/impl/network_v6.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/impl/network_v6.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/network_v6.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/bad_address_cast.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/basic_endpoint.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/detail/endpoint.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/detail/impl/endpoint.ipp \
+ E:/msys64/ucrt64/include/c++/14.2.0/sstream \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/sstream.tcc \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/impl/basic_endpoint.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/basic_resolver.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/basic_resolver_iterator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/basic_resolver_entry.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/basic_resolver_query.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/resolver_query_base.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/resolver_base.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/basic_resolver_results.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/resolver_service.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/resolve_endpoint_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/resolve_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/resolve_query_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/resolver_service_base.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/resolver_service_base.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/basic_resolver_entry.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/basic_resolver_iterator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/basic_resolver_query.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/host_name.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/impl/host_name.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/host_name.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/icmp.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/basic_endpoint.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/basic_resolver.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/multicast.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/detail/socket_option.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/resolver_base.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/resolver_query_base.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/tcp.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_socket_acceptor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/udp.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/unicast.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/ip/v6_only.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/is_applicable_property.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/is_contiguous_iterator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/is_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/is_read_buffered.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/is_write_buffered.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/local/basic_endpoint.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/local/detail/endpoint.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/local/detail/impl/endpoint.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/local/connect_pair.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/local/basic_endpoint.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/local/datagram_protocol.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/local/seq_packet_protocol.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/local/stream_protocol.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/multiple_exceptions.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/packaged_task.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/future.hpp \
+ E:/msys64/ucrt64/include/c++/14.2.0/future \
+ E:/msys64/ucrt64/include/c++/14.2.0/mutex \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/std_mutex.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/unique_lock.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/condition_variable \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/atomic_futex.h \
+ E:/msys64/ucrt64/include/c++/14.2.0/bits/std_thread.h \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/placeholders.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/posix/basic_descriptor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/posix/basic_stream_descriptor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/posix/basic_descriptor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/posix/descriptor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/posix/descriptor_base.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/posix/stream_descriptor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/post.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/prefer.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/prepend.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/prepend.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/query.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/random_access_file.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_random_access_file.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/read.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/read.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/read_at.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/read_at.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/read_until.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/regex_fwd.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/read_until.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/buffers_iterator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/readable_pipe.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/recycling_allocator.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/redirect_error.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/redirect_error.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/registered_buffer.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/require.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/require_concept.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/traits/require_concept_member.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/traits/require_concept_free.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/traits/static_require_concept.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/serial_port.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_serial_port.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/serial_port_base.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/signal_set.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_signal_set.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/signal_set_base.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/socket_base.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/static_thread_pool.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/thread_pool.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/thread_pool.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/blocking_executor_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/thread_pool.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/steady_timer.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/strand.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/strand_executor_service.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/strand_executor_service.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/defer.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/dispatch.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/strand_executor_service.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/stream_file.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_stream_file.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/streambuf.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/basic_streambuf.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/system_context.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/system_error.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/system_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/system_timer.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/this_coro.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/thread.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/thread_pool.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/time_traits.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/use_awaitable.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/use_future.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/use_future.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/packaged_task.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/uses_executor.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/version.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/wait_traits.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/windows/basic_object_handle.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_object_handle_service.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/impl/win_object_handle_service.ipp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/windows/basic_overlapped_handle.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/windows/basic_random_access_handle.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/windows/basic_overlapped_handle.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/windows/basic_stream_handle.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/windows/object_handle.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/windows/basic_object_handle.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/windows/overlapped_handle.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/windows/overlapped_ptr.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_overlapped_ptr.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/detail/win_iocp_overlapped_op.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/windows/random_access_handle.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/windows/basic_random_access_handle.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/windows/stream_handle.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/windows/basic_stream_handle.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/writable_pipe.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/write.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/write_at.hpp \
+ E:/My\ practice/C++_codes/build/_deps/asio-src/asio/include/asio/impl/write_at.hpp

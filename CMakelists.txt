@@ -1,0 +1,28 @@
+cmake_minimum_required(VERSION 3.16)
+project(C++_CODES LANGUAGES CXX)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+include(FetchContent)
+FetchContent_Declare(
+    asio
+    URL https://github.com/chriskohlhoff/asio/archive/refs/tags/asio-1-30-2.tar.gz
+)
+
+# Download and unpack the source files into your local build cache directory
+FetchContent_GetProperties(asio)
+if(NOT asio_POPULATED)
+    FetchContent_Populate(asio)
+endif()
+
+add_executable(server main.cpp)
+
+# Point your server directly to the downloaded standalone header files path
+target_include_directories(server PRIVATE ${asio_SOURCE_DIR}/asio/include)
+
+if(WIN32)
+    # Link native Windows network socket layers and set the Standalone macro flag
+    target_link_libraries(server PRIVATE ws2_32 mswsock)
+    target_compile_definitions(server PRIVATE ASIO_STANDALONE)
+endif()

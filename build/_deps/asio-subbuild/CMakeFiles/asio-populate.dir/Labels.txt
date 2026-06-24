@@ -1,0 +1,14 @@
+# Target labels
+ asio-populate
+# Source files and their labels
+E:/My practice/C++_codes/build/_deps/asio-subbuild/CMakeFiles/asio-populate
+E:/My practice/C++_codes/build/_deps/asio-subbuild/CMakeFiles/asio-populate.rule
+E:/My practice/C++_codes/build/_deps/asio-subbuild/CMakeFiles/asio-populate-complete.rule
+E:/My practice/C++_codes/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-build.rule
+E:/My practice/C++_codes/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-configure.rule
+E:/My practice/C++_codes/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-download.rule
+E:/My practice/C++_codes/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-install.rule
+E:/My practice/C++_codes/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-mkdir.rule
+E:/My practice/C++_codes/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-patch.rule
+E:/My practice/C++_codes/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-test.rule
+E:/My practice/C++_codes/build/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-update.rule
