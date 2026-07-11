@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <memory>
-#include <asio.hpp>
+#include "build/_deps/asio-src/asio/include/asio.hpp"
  
 // --- MODULE 1: THE HARDENED WORKER SESSION ---
 class SecureSession : public std::enable_shared_from_this<SecureSession> {
@@ -41,17 +41,33 @@ private:
     }
 
     void send_secure_response() {
+        // Step 1: Create the safety pointer (This was missing!)
         auto self(shared_from_this());
         
-        // Extended heap allocation to survive across the asynchronous pipeline window
-        auto response_ptr = std::make_shared<std::string>(
-            "HTTP/1.1 200 OK\r\n"
-            "Content-Type: text/plain\r\n"
-            "Content-Length: 58\r\n"
-            "Connection: close\r\n\r\n"
-            "Core Server Active via Jashan's low latency secure engine."
-        );
+        // Step 2: Build the HTML (This was missing!)
+        std::string html_body = 
+            "<html>\n"
+            "<head><title>Jashan's Core Server</title></head>\n"
+            "<body style=\"background-color: #172d4b; color: #00ff00; font-family: monospace; text-align: center; margin-top: 100px;\">\n"
+            "    <h1>[ SYSTEM SECURED ]</h1>\n"
+            "    <h2>Welcome to the Custom C++ Engine</h2>\n"
+            "    <p>This asynchronous server is running natively on Windows.</p>\n"
+            "    <hr style=\"width: 50%; border-color: #00ff00;\">\n"
+            "    <p>Status: <strong>ONLINE & MONITORING</strong></p>\n"
+            "</body>\n"
+            "</html>";
 
+        // Step 3: Calculate the dynamic headers (This was missing!)
+        std::string full_http_response = 
+            "HTTP/1.1 200 OK\r\n"
+            "Content-Type: text/html\r\n"
+            "Content-Length: " + std::to_string(html_body.length()) + "\r\n"
+            "Connection: close\r\n\r\n" + 
+            html_body;
+
+        auto response_ptr = std::make_shared<std::string>(full_http_response);
+
+        // Step 4: Fire it over the socket
         asio::async_write(
             socket_, 
             asio::buffer(*response_ptr),
