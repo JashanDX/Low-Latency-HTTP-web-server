@@ -1,0 +1,1 @@
+This is a Low-Latency server custom built under C++ environment. Created to handle multiple client requests. It's also tested and verifed under morderate Nmap extreme terrafic. 
